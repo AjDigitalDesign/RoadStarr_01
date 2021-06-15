@@ -13,8 +13,7 @@ export default function Banner(){
                         <hr class="divider" />
                     </div>
                     <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 mb-5">
-                            ROADSTARR aims to be the largest and leading car towing company in the greater Minnesota area. Our goal is to provide a first-class service with customer satisfaction as our main priority. 
+                        <p class="text-white-75 mb-5">ROADSTARR aims to be one of the largest and leading car towing company in the greater Twin Cities area. Our goal is to provide a first-class service with customer satisfaction as our main priority.
                         </p>
                         <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
                     </div>
